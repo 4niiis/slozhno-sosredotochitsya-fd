@@ -10,21 +10,11 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-img-page-dark: url(../images/cover-image-light.png);
-  /* --logo-color:#FFC2E6;
-  --main-color:#353430;
-  --section-color:#353430;
-  --bg-color-page:#ffeef6;
-  --border-button-color:#32312D66;
-  --bg-color:#FF8DCB;
-  --button-color:#353430; */
-
-
-
   --bg-page-color:#ffeef6;
   --button-color:#353430;
   --hover-border-button-color:#32312D;
   --logo-color:#FFC2E6;
-  --main-color:#FF8DCB; /* ТЕНИ*/
+  --main-color:#FF8DCB; 
   --section-name-color:#353430;
   --bg-name-paragraph-color:#FF8DCB;
   --name-paragraph-color:#353430;
@@ -33,20 +23,12 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    /* --bg-img-page-dark: url(../images/cover-image-light.png);
-    --logo-color:#FFC2E6;
-    --main-color:#353430;
-    --section-color:#353430;
-    --bg-color-page:#ffeef6;
-    --border-button-color:#32312D66;
-    --bg-color:#FF8DCB;
-    --button-color:#353430; */
     --bg-img-page-dark: url(../images/cover-image-light.png);
     --bg-page-color:#ffeef6;
     --button-color:#353430;
     --hover-border-button-color:#32312D;
     --logo-color:#FFC2E6;
-    --main-color:#FF8DCB; /* ТЕНИ*/
+    --main-color:#FF8DCB;
     --section-name-color:#353430;
     --bg-name-paragraph-color:#FF8DCB;
     --name-paragraph-color:#353430;

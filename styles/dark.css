@@ -10,22 +10,6 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-img-page-dark: url(../images/cover-image-dark.png);
-  /* --logo-color:#DB00FF;
-  --main-color:#FF0070;
-  --section-color:#F1B2CE;
-  --bg-color-page:#000028;
-  --border-button-color:#FF007066;
-  --bg-color:#FF0070; */
-  
-
-  /* --logo-color:#DB00FF;
-  --main-color:#FF0070; /* основной цвет*/
-  /* --bg-color-page:#000028;
-  --color-name-paragpaph:#000028;
-  --text-color:#F1B2CE;
-  --hover-border-button-color:#FF007066; */ 
-
-
   --bg-page-color:#000028;
   --button-color:#FF0070;
   --hover-border-button-color:#FF007066;
@@ -35,9 +19,4 @@
   --bg-name-paragraph-color:#FF0070;
   --name-paragraph-color:#000028;
   --article-text-color:#F1B2CE;
-
-
-
-
-
 }
