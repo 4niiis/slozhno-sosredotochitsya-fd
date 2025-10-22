@@ -3,7 +3,6 @@
   Здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-
 :root.theme-light {
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
@@ -14,8 +13,8 @@
   --button-color:#353430;
   --hover-border-button-color:#32312D;
   --logo-color:#FFC2E6;
-  --main-color:#FF8DCB; 
-  --section-name-color:#353430;
+  --main-color:#FF8DCB;
+  --section-name-color: #353430;
   --bg-name-paragraph-color:#FF8DCB;
   --name-paragraph-color:#353430;
   --article-text-color:#353430;
