@@ -381,9 +381,9 @@
   .alter_article-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: var(--main-gap); 
+    gap: var(--main-gap);
   }
-
+  
   .alter_article-list li {
     max-width: 315px;
     width: 100%;
